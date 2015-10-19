@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Wallis's resume </title>
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1> 林昀萱 Wallis Lin </h1>
+    <img src="me.jpg" width="160" height="170" alt=my picture style="position:absolute;top:20px;right:100px;">
+    <p>
+        <p id="person"> 1992/5/16
+            <br> 台中市南屯區
+            <br> wallis51619@gmail.com
+            <br> wallis516@github.com
+            <hr 4px solid gray center>
+        </p>
+        <h2> 工作經驗 work experience </h2>
+        <div class="work">
+            <p>
+                <strong>台灣護樹協會 美術企劃＆網頁管理</strong>
+                <br> 2015/04-2015/10
+                <br>
+                <ul>
+                    <li>設計協會刊物,海報,傳單,摺頁</li>
+                    <li>繪製教育漫畫,圖文</li>
+                    <li>設計活動宣傳圖文</li>
+                    <li>協會官網視覺介面,管理,更新</li>
+                </ul>
+                <strong>財團法人家扶基金會 信件翻譯 </strong>
+                <br>2012-2014
+                <br>
+                <ul>
+                    <li>翻譯外國扶助兒童信件</li>
+                </ul>
+        </div>
+        <a href class=link "www.dodolovetree.org.tw">護樹協會官網</a>
+        <br>
+        <br>
+        <br>
+        </p>
+        <hr 4px solid gray center>
+        <h2>學經歷 education&participation</h2>
+        <div class="work">
+            <p>
+                <ul>
+                    <li>國立中興大學 NCHU
+                        <br> 外文語文學系
+                        <br> 2011/09-2014/07
+                    </li>
+                    <br>
+                    <br>
+                    <li>外文系系學會 美術設計長</li>
+                    <li>中興攝影研究社社幹部 </li>
+                    <li>中興爵士音樂社美術設計長</li>
+                </ul>
+        </div>
+        </p>
+        <hr 4px solid gray center>
+        <h2> 技能與專長 skill&interest </h2>
+        <p>
+            <div class="work">
+                在學期間設計許多編輯文宣,海報,刊物，也參與很多的活動企劃，擁有豐富的人際,活動經驗。
+                <br> 興趣為攝影.繪圖.閱讀.吸收新知。
+                <br>
+                <ul>
+                    <li> TOEIC 805</li>
+                    <li>Photoshop.Sai.Indesign</li>
+                    <li>HTML.CSS </li>
+                </ul>
+            </div>
+        </p>
+
+</html>
