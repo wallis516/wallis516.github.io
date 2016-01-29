@@ -1,0 +1,120 @@
+                .navbar {
+                    font-family: 'Ubuntu', sans-serif;
+                    background-color: #FCFCFC;
+                    border-color: transparent;
+                    height: 60px;
+                }
+                
+                .navbar-brand {
+                    color: #282828;
+                    padding: 10px;
+                    margin-left: 5px;
+                    line-height: 23px;
+                }
+                
+                .btn2 {
+                    border-style: none;
+                    background-color: transparent;
+                    font-size: 150%;
+                    opacity: 0.8;
+                    transition: 0.3s;
+                }
+                
+                .back {
+                    left: 23px;
+                    right: auto;
+                    position: fixed;
+                    margin-top: 100px;
+                    float: right;
+                    z-index: 1;
+                }
+                
+                .fa-arrow-circle-o-left {
+                    color: #404040;
+                }
+                
+                .fa-arrow-circle-o-left:hover {
+                    color: #808080;
+                }
+                
+                .btn2:visited {
+                    background-color: transparent;
+                    border-style: none;
+                }
+                
+                .btn2:active {
+                    background-color: transparent;
+                    border: 0px;
+                    border-style: none;
+                }
+                
+                .story {
+                    top: 80px;
+                    margin-bottom: 50px;
+                }
+                
+                .title {
+                    text-align: center;
+                    opacity: 0.8;
+                }
+                
+                .storywords {
+                    padding: 5% 10% 15% 10%;
+                    line-height: 30px;
+                }
+                
+                h3 {
+                    padding-top: 15px;
+                    padding-bottom: 10px;
+                    font-weight: bold;
+                }
+                
+                h4 {
+                    color: #777777;
+                }
+                
+                .instory {
+                    display: block;
+                    margin: auto;
+                    padding-bottom: 20px;
+                    padding-top: 20px;
+                }
+                
+                .circle {
+                    line-height: 30px;
+                    padding: 15px;
+                }
+                
+                #ways {
+                    padding: 10px;
+                }
+                
+                p {
+                    padding: 20px;
+                }
+                
+                .footer {
+                    color: #282828;
+                    margin: 10%;
+                }
+                
+                .contact {
+                    line-height: 150%;
+                }
+                
+                .icon {
+                    padding: 30px;
+                }
+                
+                .icon1 {
+                    color: black;
+                    padding-left: 35px;
+                }
+                
+                .fa-2x {
+                    color: #000000;
+                }
+                
+                .fa-2x:hover {
+                    color: #666666;
+                }

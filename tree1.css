@@ -1,0 +1,75 @@
+.navbar {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #FCFCFC;
+    border-color: transparent;
+    height: 60px;
+}
+
+.navbar-brand {
+    color: #282828;
+    padding: 10px;
+    margin-left: 5px;
+    line-height: 23px;
+}
+
+.btn:hover {
+    background-color: #001911;
+    color: #C9FFED;
+}
+
+.donate1 {
+    left: auto;
+    right: 20px;
+    position: fixed;
+    margin-top: 200px;
+    float: right;
+}
+
+.donate {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #00CC99;
+    font-size: 150%;
+    border-width: 20px;
+    opacity: 0.9;
+}
+
+#one,
+#two {
+    width: 100%;
+    height: auto;
+}
+
+.slogan {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 100px;
+    background-color: #282828;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.footer {
+    color: #282828;
+    margin: 10%;
+}
+
+.contact {
+    line-height: 150%;
+}
+
+.icon {
+    padding: 30px;
+}
+
+.icon1 {
+    color: black;
+    padding-left: 35px;
+}
+
+.fa-2x {
+    color: #000000;
+}
+
+.fa-2x:hover {
+    color: #666666;
+}
