@@ -78,20 +78,13 @@
                     height: 1000px;
                 }
                 
-                .instory {
-                    display: block;
-                    margin-top: 5%;
-                    padding: 5%;
-                }
+               
                 
                 .word {
                     margin-top: 40px;
                 }
                 
-                .storywords {
-                    padding: 5% 10% 15% 10%;
-                    line-height: 120%;
-                }
+                
                 
                 p.post-meta {
                     padding-top: 10px;
@@ -132,16 +125,8 @@
                     padding-left: 35%;
                 }
                 
-                .titlepic {
-                    right: 20px;
-                }
+               
                 
-                .article {
-                    line-height: 1.5em;
-                    padding: 5%;
-                    padding-top: 5%;
-                    color: #222222;
-                }
                 
                 .storypic {
                     padding-top: 8%;
@@ -176,7 +161,7 @@
                     border: 1px solid #0085a1;
                 }
                 
-                .footer {
+                 .footer {
                     color: #282828;
                     margin: 10%;
                 }
